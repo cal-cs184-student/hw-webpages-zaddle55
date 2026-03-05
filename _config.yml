@@ -1,9 +1,1 @@
-title: CS184/284A Homework Webpages
-description: zaddle55
-url: https://cal-cs184-student.github.io
-baseurl: /hw-webpages-zaddle55
-
-remote_theme: just-the-docs/just-the-docs
-plugins:
-  - jekyll-remote-theme
-search_enabled: true
+theme: jekyll-theme-cayman
